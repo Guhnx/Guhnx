@@ -20,5 +20,4 @@
   <img align="center" alt="Caio-JS" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Caio-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg">
-  <img alt="Hi-5" align="right" height="100" width="100" src="https://media.giphy.com/media/5qFqDz7KYlHFX3tDhf/giphy.gif">
 </div>

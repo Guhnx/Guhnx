@@ -1,7 +1,7 @@
 ### Olá, Sou Luis Gustavo mais pode me chamar de Guhnx 👋😀
 
 - 😄 Sou interessado em praticamente tudo.
-- 📫 Contato: gustavocosta78@hotmail.com
+- 📫 Contato: dev.gustta@outlook.com
 - 💞️ Busco colaborar em projetos, e na minha evolução como programador.
 - 📘 Sistema de Informação.
 

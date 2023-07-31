@@ -3,7 +3,7 @@
 - 😄 Sou interessado em praticamente tudo.
 - 📫 Contato: dev.gustta@outlook.com
 - 💞️ Busco colaborar em projetos, e na minha evolução como programador.
-- 📘 Sistema de Informação.
+- 📘 Sistemas de Informação.
 
 <div>
   <a href="https://github.com/Guhnx">
